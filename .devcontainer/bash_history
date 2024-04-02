@@ -1,0 +1,9 @@
+ip a
+history
+ls /workspace
+ls /workspace -lha
+ansible
+env
+env | grep HIST
+exit
+ls
